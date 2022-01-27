@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Education Application</string>
+    <string name="Title">\nMath Education</string>
+    <string name="textViewBrandName">Brand :</string>
+    <string name="textViewPhoneType">Phone :</string>
+    <string name="textViewCondition">Condition :</string>
+    <string name="textViewPhonePrice">Price :</string>
+</resources>
